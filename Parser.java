@@ -11,14 +11,6 @@ class Parser {
 			System.exit(0);
 		}
 	}
-	static void indent(int indentLevel)
-    {
-        for (int i = 0; i < indentLevel; i++)
-        {
-            System.out.print("    ");
-        }
-    }
-
 }
 
 
